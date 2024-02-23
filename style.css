@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(138, 138, 220);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+}
